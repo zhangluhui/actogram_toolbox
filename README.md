@@ -1,6 +1,6 @@
 <h1><b>Actogram Toolbox</b></h1>  
 The <a href="https://zhangluhui.shinyapps.io/actogram_toolbox/">actogram toolbox</a> is designed to plot actograms using animal activity recording data.
-This web app is developed based on the R packages ggetho, zeitgebr, behavr, and archive.
+This web app is developed based on the R packages ggetho, zeitgebr, behavr, archive, fs, and shiny.
 
 <h4><b>App URL:</b></h4>
 <a href="https://zhangluhui.shinyapps.io/actogram_toolbox/">https://zhangluhui.shinyapps.io/actogram_toolbox/</a>
